@@ -16,19 +16,19 @@ body {
 }
 
 .animate-one {
-  background-color: red;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
   animation: first 0.8s infinite ease;
 }
 .animate-two {
-  background-color: red;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
   animation: two 0.8s 0.5s infinite ease;
 }
 .animate-three {
-  background-color: red;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
   animation: three 0.8s 1s infinite ease;
 }
 .animate-four {
-  background-color: red;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
   animation: four 0.8s 1.5s infinite ease;
 }
 @keyframes first {
